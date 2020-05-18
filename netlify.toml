@@ -1,0 +1,2157 @@
+
+    [[redirects]]
+      from = "/api/v1/modules/voicerss"
+      to = "/build/modules/voicerss.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/45/reviews"
+      to = "/build/reviews/45.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/45/versions"
+      to = "/build/versions/45.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/radioemitter"
+      to = "/build/modules/radioemitter.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/79/reviews"
+      to = "/build/reviews/79.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/79/versions"
+      to = "/build/versions/79.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/google-direction"
+      to = "/build/modules/google-direction.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/83/reviews"
+      to = "/build/reviews/83.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/83/versions"
+      to = "/build/versions/83.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/sonoff"
+      to = "/build/modules/sonoff.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/124/reviews"
+      to = "/build/reviews/124.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/124/versions"
+      to = "/build/versions/124.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/kodi-xbmc"
+      to = "/build/modules/kodi-xbmc.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/42/reviews"
+      to = "/build/reviews/42.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/42/versions"
+      to = "/build/versions/42.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/lirc"
+      to = "/build/modules/lirc.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/158/reviews"
+      to = "/build/reviews/158.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/158/versions"
+      to = "/build/versions/158.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/speak"
+      to = "/build/modules/speak.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/65/reviews"
+      to = "/build/reviews/65.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/65/versions"
+      to = "/build/versions/65.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/google-home"
+      to = "/build/modules/google-home.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/173/reviews"
+      to = "/build/reviews/173.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/173/versions"
+      to = "/build/versions/173.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/shutdown"
+      to = "/build/modules/shutdown.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/110/reviews"
+      to = "/build/reviews/110.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/110/versions"
+      to = "/build/versions/110.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/colissimo"
+      to = "/build/modules/colissimo.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/134/reviews"
+      to = "/build/reviews/134.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/134/versions"
+      to = "/build/versions/134.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/hue"
+      to = "/build/modules/hue.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/61/reviews"
+      to = "/build/reviews/61.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/61/versions"
+      to = "/build/versions/61.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/alexa"
+      to = "/build/modules/alexa.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/169/reviews"
+      to = "/build/reviews/169.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/169/versions"
+      to = "/build/versions/169.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/serial"
+      to = "/build/modules/serial.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/72/reviews"
+      to = "/build/reviews/72.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/72/versions"
+      to = "/build/versions/72.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/milight"
+      to = "/build/modules/milight.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/107/reviews"
+      to = "/build/reviews/107.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/107/versions"
+      to = "/build/versions/107.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/hyperion"
+      to = "/build/modules/hyperion.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/122/reviews"
+      to = "/build/reviews/122.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/122/versions"
+      to = "/build/versions/122.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/onkyo"
+      to = "/build/modules/onkyo.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/153/reviews"
+      to = "/build/reviews/153.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/153/versions"
+      to = "/build/versions/153.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/programmetv"
+      to = "/build/modules/programmetv.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/50/reviews"
+      to = "/build/reviews/50.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/50/versions"
+      to = "/build/versions/50.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/broadlink"
+      to = "/build/modules/broadlink.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/161/reviews"
+      to = "/build/reviews/161.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/161/versions"
+      to = "/build/versions/161.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/mysensors"
+      to = "/build/modules/mysensors.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/68/reviews"
+      to = "/build/reviews/68.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/68/versions"
+      to = "/build/versions/68.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/lgwebos"
+      to = "/build/modules/lgwebos.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/112/reviews"
+      to = "/build/reviews/112.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/112/versions"
+      to = "/build/versions/112.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/chromecast"
+      to = "/build/modules/chromecast.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/136/reviews"
+      to = "/build/reviews/136.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/136/versions"
+      to = "/build/versions/136.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/freebox-networkscanner"
+      to = "/build/modules/freebox-networkscanner.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/147/reviews"
+      to = "/build/reviews/147.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/147/versions"
+      to = "/build/versions/147.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/smsfree"
+      to = "/build/modules/smsfree.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/64/reviews"
+      to = "/build/reviews/64.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/64/versions"
+      to = "/build/versions/64.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/blockstack"
+      to = "/build/modules/blockstack.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/171/reviews"
+      to = "/build/reviews/171.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/171/versions"
+      to = "/build/versions/171.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/forecast"
+      to = "/build/modules/forecast.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/74/reviews"
+      to = "/build/reviews/74.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/74/versions"
+      to = "/build/versions/74.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/spotify-connect"
+      to = "/build/modules/spotify-connect.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/109/reviews"
+      to = "/build/reviews/109.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/109/versions"
+      to = "/build/versions/109.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/bose-soundtouch"
+      to = "/build/modules/bose-soundtouch.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/125/reviews"
+      to = "/build/reviews/125.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/125/versions"
+      to = "/build/versions/125.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/pushbullet"
+      to = "/build/modules/pushbullet.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/59/reviews"
+      to = "/build/reviews/59.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/59/versions"
+      to = "/build/versions/59.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/freebox"
+      to = "/build/modules/freebox.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/164/reviews"
+      to = "/build/reviews/164.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/164/versions"
+      to = "/build/versions/164.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/sonos"
+      to = "/build/modules/sonos.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/71/reviews"
+      to = "/build/reviews/71.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/71/versions"
+      to = "/build/versions/71.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/mp3-player"
+      to = "/build/modules/mp3-player.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/87/reviews"
+      to = "/build/reviews/87.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/87/versions"
+      to = "/build/versions/87.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/teleinfo"
+      to = "/build/modules/teleinfo.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/117/reviews"
+      to = "/build/reviews/117.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/117/versions"
+      to = "/build/versions/117.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/yeelight"
+      to = "/build/modules/yeelight.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/152/reviews"
+      to = "/build/reviews/152.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/152/versions"
+      to = "/build/versions/152.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/viera"
+      to = "/build/modules/viera.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/159/reviews"
+      to = "/build/reviews/159.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/159/versions"
+      to = "/build/versions/159.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/zwave"
+      to = "/build/modules/zwave.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/66/reviews"
+      to = "/build/reviews/66.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/66/versions"
+      to = "/build/versions/66.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/telegram"
+      to = "/build/modules/telegram.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/80/reviews"
+      to = "/build/reviews/80.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/80/versions"
+      to = "/build/versions/80.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/enocean"
+      to = "/build/modules/enocean.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/111/reviews"
+      to = "/build/reviews/111.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/111/versions"
+      to = "/build/versions/111.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/netatmo"
+      to = "/build/modules/netatmo.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/135/reviews"
+      to = "/build/reviews/135.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/135/versions"
+      to = "/build/versions/135.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/wemo"
+      to = "/build/modules/wemo.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/63/reviews"
+      to = "/build/reviews/63.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/63/versions"
+      to = "/build/versions/63.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/rpi-info"
+      to = "/build/modules/rpi-info.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/170/reviews"
+      to = "/build/reviews/170.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/170/versions"
+      to = "/build/versions/170.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/google"
+      to = "/build/modules/google.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/73/reviews"
+      to = "/build/reviews/73.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/73/versions"
+      to = "/build/versions/73.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/w215"
+      to = "/build/modules/w215.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/108/reviews"
+      to = "/build/reviews/108.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/108/versions"
+      to = "/build/versions/108.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/suncalc"
+      to = "/build/modules/suncalc.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/154/reviews"
+      to = "/build/reviews/154.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/154/versions"
+      to = "/build/versions/154.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/mqtt"
+      to = "/build/modules/mqtt.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/58/reviews"
+      to = "/build/reviews/58.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/58/versions"
+      to = "/build/versions/58.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/livebox"
+      to = "/build/modules/livebox.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/163/reviews"
+      to = "/build/reviews/163.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/163/versions"
+      to = "/build/versions/163.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/fhem"
+      to = "/build/modules/fhem.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/70/reviews"
+      to = "/build/reviews/70.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/70/versions"
+      to = "/build/versions/70.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/network-scanner"
+      to = "/build/modules/network-scanner.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/86/reviews"
+      to = "/build/reviews/86.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/86/versions"
+      to = "/build/versions/86.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/hdmicec"
+      to = "/build/modules/hdmicec.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/116/reviews"
+      to = "/build/reviews/116.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/116/versions"
+      to = "/build/versions/116.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/shell"
+      to = "/build/modules/shell.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/151/reviews"
+      to = "/build/reviews/151.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/151/versions"
+      to = "/build/versions/151.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/voicerss"
+      to = "/build/modules/voicerss.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/45/reviews"
+      to = "/build/reviews/45.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/45/versions"
+      to = "/build/versions/45.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/radioemitter"
+      to = "/build/modules/radioemitter.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/79/reviews"
+      to = "/build/reviews/79.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/79/versions"
+      to = "/build/versions/79.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/google-direction"
+      to = "/build/modules/google-direction.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/83/reviews"
+      to = "/build/reviews/83.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/83/versions"
+      to = "/build/versions/83.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/sonoff"
+      to = "/build/modules/sonoff.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/124/reviews"
+      to = "/build/reviews/124.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/124/versions"
+      to = "/build/versions/124.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/kodi-xbmc"
+      to = "/build/modules/kodi-xbmc.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/42/reviews"
+      to = "/build/reviews/42.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/42/versions"
+      to = "/build/versions/42.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/lirc"
+      to = "/build/modules/lirc.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/158/reviews"
+      to = "/build/reviews/158.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/158/versions"
+      to = "/build/versions/158.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/speak"
+      to = "/build/modules/speak.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/65/reviews"
+      to = "/build/reviews/65.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/65/versions"
+      to = "/build/versions/65.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/google-home"
+      to = "/build/modules/google-home.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/173/reviews"
+      to = "/build/reviews/173.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/173/versions"
+      to = "/build/versions/173.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/shutdown"
+      to = "/build/modules/shutdown.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/110/reviews"
+      to = "/build/reviews/110.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/110/versions"
+      to = "/build/versions/110.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/colissimo"
+      to = "/build/modules/colissimo.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/134/reviews"
+      to = "/build/reviews/134.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/134/versions"
+      to = "/build/versions/134.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/hue"
+      to = "/build/modules/hue.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/61/reviews"
+      to = "/build/reviews/61.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/61/versions"
+      to = "/build/versions/61.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/alexa"
+      to = "/build/modules/alexa.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/169/reviews"
+      to = "/build/reviews/169.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/169/versions"
+      to = "/build/versions/169.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/serial"
+      to = "/build/modules/serial.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/72/reviews"
+      to = "/build/reviews/72.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/72/versions"
+      to = "/build/versions/72.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/milight"
+      to = "/build/modules/milight.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/107/reviews"
+      to = "/build/reviews/107.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/107/versions"
+      to = "/build/versions/107.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/hyperion"
+      to = "/build/modules/hyperion.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/122/reviews"
+      to = "/build/reviews/122.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/122/versions"
+      to = "/build/versions/122.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/yeelight"
+      to = "/build/modules/yeelight.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/152/reviews"
+      to = "/build/reviews/152.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/152/versions"
+      to = "/build/versions/152.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/programmetv"
+      to = "/build/modules/programmetv.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/50/reviews"
+      to = "/build/reviews/50.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/50/versions"
+      to = "/build/versions/50.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/broadlink"
+      to = "/build/modules/broadlink.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/161/reviews"
+      to = "/build/reviews/161.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/161/versions"
+      to = "/build/versions/161.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/mysensors"
+      to = "/build/modules/mysensors.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/68/reviews"
+      to = "/build/reviews/68.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/68/versions"
+      to = "/build/versions/68.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/lgwebos"
+      to = "/build/modules/lgwebos.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/112/reviews"
+      to = "/build/reviews/112.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/112/versions"
+      to = "/build/versions/112.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/chromecast"
+      to = "/build/modules/chromecast.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/136/reviews"
+      to = "/build/reviews/136.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/136/versions"
+      to = "/build/versions/136.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/suncalc"
+      to = "/build/modules/suncalc.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/154/reviews"
+      to = "/build/reviews/154.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/154/versions"
+      to = "/build/versions/154.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/smsfree"
+      to = "/build/modules/smsfree.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/64/reviews"
+      to = "/build/reviews/64.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/64/versions"
+      to = "/build/versions/64.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/blockstack"
+      to = "/build/modules/blockstack.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/171/reviews"
+      to = "/build/reviews/171.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/171/versions"
+      to = "/build/versions/171.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/forecast"
+      to = "/build/modules/forecast.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/74/reviews"
+      to = "/build/reviews/74.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/74/versions"
+      to = "/build/versions/74.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/spotify-connect"
+      to = "/build/modules/spotify-connect.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/109/reviews"
+      to = "/build/reviews/109.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/109/versions"
+      to = "/build/versions/109.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/bose-soundtouch"
+      to = "/build/modules/bose-soundtouch.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/125/reviews"
+      to = "/build/reviews/125.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/125/versions"
+      to = "/build/versions/125.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/pushbullet"
+      to = "/build/modules/pushbullet.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/59/reviews"
+      to = "/build/reviews/59.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/59/versions"
+      to = "/build/versions/59.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/freebox"
+      to = "/build/modules/freebox.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/164/reviews"
+      to = "/build/reviews/164.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/164/versions"
+      to = "/build/versions/164.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/sonos"
+      to = "/build/modules/sonos.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/71/reviews"
+      to = "/build/reviews/71.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/71/versions"
+      to = "/build/versions/71.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/mp3-player"
+      to = "/build/modules/mp3-player.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/87/reviews"
+      to = "/build/reviews/87.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/87/versions"
+      to = "/build/versions/87.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/teleinfo"
+      to = "/build/modules/teleinfo.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/117/reviews"
+      to = "/build/reviews/117.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/117/versions"
+      to = "/build/versions/117.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/shell"
+      to = "/build/modules/shell.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/151/reviews"
+      to = "/build/reviews/151.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/151/versions"
+      to = "/build/versions/151.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/viera"
+      to = "/build/modules/viera.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/159/reviews"
+      to = "/build/reviews/159.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/159/versions"
+      to = "/build/versions/159.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/zwave"
+      to = "/build/modules/zwave.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/66/reviews"
+      to = "/build/reviews/66.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/66/versions"
+      to = "/build/versions/66.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/telegram"
+      to = "/build/modules/telegram.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/80/reviews"
+      to = "/build/reviews/80.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/80/versions"
+      to = "/build/versions/80.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/enocean"
+      to = "/build/modules/enocean.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/111/reviews"
+      to = "/build/reviews/111.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/111/versions"
+      to = "/build/versions/111.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/netatmo"
+      to = "/build/modules/netatmo.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/135/reviews"
+      to = "/build/reviews/135.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/135/versions"
+      to = "/build/versions/135.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/wemo"
+      to = "/build/modules/wemo.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/63/reviews"
+      to = "/build/reviews/63.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/63/versions"
+      to = "/build/versions/63.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/rpi-info"
+      to = "/build/modules/rpi-info.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/170/reviews"
+      to = "/build/reviews/170.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/170/versions"
+      to = "/build/versions/170.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/google"
+      to = "/build/modules/google.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/73/reviews"
+      to = "/build/reviews/73.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/73/versions"
+      to = "/build/versions/73.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/w215"
+      to = "/build/modules/w215.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/108/reviews"
+      to = "/build/reviews/108.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/108/versions"
+      to = "/build/versions/108.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/onkyo"
+      to = "/build/modules/onkyo.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/153/reviews"
+      to = "/build/reviews/153.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/153/versions"
+      to = "/build/versions/153.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/mqtt"
+      to = "/build/modules/mqtt.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/58/reviews"
+      to = "/build/reviews/58.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/58/versions"
+      to = "/build/versions/58.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/livebox"
+      to = "/build/modules/livebox.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/163/reviews"
+      to = "/build/reviews/163.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/163/versions"
+      to = "/build/versions/163.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/fhem"
+      to = "/build/modules/fhem.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/70/reviews"
+      to = "/build/reviews/70.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/70/versions"
+      to = "/build/versions/70.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/network-scanner"
+      to = "/build/modules/network-scanner.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/86/reviews"
+      to = "/build/reviews/86.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/86/versions"
+      to = "/build/versions/86.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/hdmicec"
+      to = "/build/modules/hdmicec.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/116/reviews"
+      to = "/build/reviews/116.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/116/versions"
+      to = "/build/versions/116.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/freebox-networkscanner"
+      to = "/build/modules/freebox-networkscanner.en.json"
+      query = {lang = "en"}
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/147/reviews"
+      to = "/build/reviews/147.json"
+      status = 200
+      force = true
+
+  
+    [[redirects]]
+      from = "/api/v1/modules/147/versions"
+      to = "/build/versions/147.json"
+      status = 200
+      force = true
+
+  
