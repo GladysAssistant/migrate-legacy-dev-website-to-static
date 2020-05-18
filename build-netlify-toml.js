@@ -9,7 +9,7 @@ function getRedirects(idModule, slug, lang) {
   const infos = `
     [[redirects]]
       from = "/api/v1/modules/${slug}"
-      to = "/build/modules/${slug}.${lang}.json"
+      to = "/modules/${slug}.${lang}.json"
       query = {lang = "${lang}"}
       status = 200
       force = true
@@ -19,7 +19,7 @@ function getRedirects(idModule, slug, lang) {
   const reviews = `
     [[redirects]]
       from = "/api/v1/modules/${idModule}/reviews"
-      to = "/build/reviews/${idModule}.json"
+      to = "/reviews/${idModule}.json"
       status = 200
       force = true
 
@@ -28,7 +28,7 @@ function getRedirects(idModule, slug, lang) {
   const versions = `
     [[redirects]]
       from = "/api/v1/modules/${idModule}/versions"
-      to = "/build/versions/${idModule}.json"
+      to = "/versions/${idModule}.json"
       status = 200
       force = true
 
