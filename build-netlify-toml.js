@@ -1,5 +1,7 @@
 const fs = require("fs");
 
+const NETLIFY_TOML_PATH = "./build/netlify.toml";
+
 const modulesFr = require("./build/modules.fr.json");
 const modulesEn = require("./build/modules.en.json");
 
@@ -45,4 +47,4 @@ modulesEn.forEach((module) => {
   allRedirects += getRedirects(module.idModule, module.slug, "en");
 });
 
-fs.writeFileSync("./netlify.toml", allRedirects);
+fs.writeFileSync(NETLIFY_TOML_PATH, allRedirects);
