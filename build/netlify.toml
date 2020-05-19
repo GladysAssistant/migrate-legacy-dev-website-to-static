@@ -1,4 +1,10 @@
 
+   [[redirects]]
+      from = "/api/gladys/version"
+      to = "/last_version.json"
+      status = 200
+      force = true
+
     [[redirects]]
       from = "/api/v1/modules/voicerss"
       to = "/modules/voicerss.fr.json"
@@ -20,6 +26,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/45/download"
+      to = "/versions/45.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/radioemitter"
@@ -43,6 +55,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/79/download"
+      to = "/versions/79.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/google-direction"
       to = "/modules/google-direction.fr.json"
@@ -64,6 +82,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/83/download"
+      to = "/versions/83.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/sonoff"
@@ -87,6 +111,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/124/download"
+      to = "/versions/124.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/kodi-xbmc"
       to = "/modules/kodi-xbmc.fr.json"
@@ -108,6 +138,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/42/download"
+      to = "/versions/42.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/lirc"
@@ -131,6 +167,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/158/download"
+      to = "/versions/158.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/speak"
       to = "/modules/speak.fr.json"
@@ -152,6 +194,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/65/download"
+      to = "/versions/65.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/google-home"
@@ -175,6 +223,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/173/download"
+      to = "/versions/173.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/shutdown"
       to = "/modules/shutdown.fr.json"
@@ -196,6 +250,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/110/download"
+      to = "/versions/110.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/colissimo"
@@ -219,6 +279,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/134/download"
+      to = "/versions/134.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/hue"
       to = "/modules/hue.fr.json"
@@ -240,6 +306,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/61/download"
+      to = "/versions/61.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/alexa"
@@ -263,6 +335,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/169/download"
+      to = "/versions/169.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/serial"
       to = "/modules/serial.fr.json"
@@ -284,6 +362,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/72/download"
+      to = "/versions/72.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/milight"
@@ -307,6 +391,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/107/download"
+      to = "/versions/107.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/hyperion"
       to = "/modules/hyperion.fr.json"
@@ -328,6 +418,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/122/download"
+      to = "/versions/122.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/onkyo"
@@ -351,6 +447,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/153/download"
+      to = "/versions/153.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/programmetv"
       to = "/modules/programmetv.fr.json"
@@ -372,6 +474,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/50/download"
+      to = "/versions/50.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/broadlink"
@@ -395,6 +503,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/161/download"
+      to = "/versions/161.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/mysensors"
       to = "/modules/mysensors.fr.json"
@@ -416,6 +530,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/68/download"
+      to = "/versions/68.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/lgwebos"
@@ -439,6 +559,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/112/download"
+      to = "/versions/112.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/chromecast"
       to = "/modules/chromecast.fr.json"
@@ -460,6 +586,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/136/download"
+      to = "/versions/136.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/freebox-networkscanner"
@@ -483,6 +615,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/147/download"
+      to = "/versions/147.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/smsfree"
       to = "/modules/smsfree.fr.json"
@@ -504,6 +642,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/64/download"
+      to = "/versions/64.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/blockstack"
@@ -527,6 +671,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/171/download"
+      to = "/versions/171.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/forecast"
       to = "/modules/forecast.fr.json"
@@ -548,6 +698,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/74/download"
+      to = "/versions/74.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/spotify-connect"
@@ -571,6 +727,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/109/download"
+      to = "/versions/109.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/bose-soundtouch"
       to = "/modules/bose-soundtouch.fr.json"
@@ -592,6 +754,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/125/download"
+      to = "/versions/125.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/pushbullet"
@@ -615,6 +783,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/59/download"
+      to = "/versions/59.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/freebox"
       to = "/modules/freebox.fr.json"
@@ -636,6 +810,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/164/download"
+      to = "/versions/164.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/sonos"
@@ -659,6 +839,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/71/download"
+      to = "/versions/71.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/mp3-player"
       to = "/modules/mp3-player.fr.json"
@@ -680,6 +866,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/87/download"
+      to = "/versions/87.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/teleinfo"
@@ -703,6 +895,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/117/download"
+      to = "/versions/117.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/yeelight"
       to = "/modules/yeelight.fr.json"
@@ -724,6 +922,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/152/download"
+      to = "/versions/152.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/viera"
@@ -747,6 +951,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/159/download"
+      to = "/versions/159.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/zwave"
       to = "/modules/zwave.fr.json"
@@ -768,6 +978,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/66/download"
+      to = "/versions/66.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/telegram"
@@ -791,6 +1007,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/80/download"
+      to = "/versions/80.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/enocean"
       to = "/modules/enocean.fr.json"
@@ -812,6 +1034,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/111/download"
+      to = "/versions/111.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/netatmo"
@@ -835,6 +1063,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/135/download"
+      to = "/versions/135.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/wemo"
       to = "/modules/wemo.fr.json"
@@ -856,6 +1090,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/63/download"
+      to = "/versions/63.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/rpi-info"
@@ -879,6 +1119,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/170/download"
+      to = "/versions/170.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/google"
       to = "/modules/google.fr.json"
@@ -900,6 +1146,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/73/download"
+      to = "/versions/73.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/w215"
@@ -923,6 +1175,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/108/download"
+      to = "/versions/108.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/suncalc"
       to = "/modules/suncalc.fr.json"
@@ -944,6 +1202,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/154/download"
+      to = "/versions/154.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/mqtt"
@@ -967,6 +1231,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/58/download"
+      to = "/versions/58.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/livebox"
       to = "/modules/livebox.fr.json"
@@ -988,6 +1258,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/163/download"
+      to = "/versions/163.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/fhem"
@@ -1011,6 +1287,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/70/download"
+      to = "/versions/70.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/network-scanner"
       to = "/modules/network-scanner.fr.json"
@@ -1032,6 +1314,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/86/download"
+      to = "/versions/86.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/hdmicec"
@@ -1055,6 +1343,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/116/download"
+      to = "/versions/116.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/shell"
       to = "/modules/shell.fr.json"
@@ -1076,6 +1370,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/151/download"
+      to = "/versions/151.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/voicerss"
@@ -1099,6 +1399,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/45/download"
+      to = "/versions/45.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/radioemitter"
       to = "/modules/radioemitter.en.json"
@@ -1120,6 +1426,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/79/download"
+      to = "/versions/79.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/google-direction"
@@ -1143,6 +1455,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/83/download"
+      to = "/versions/83.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/sonoff"
       to = "/modules/sonoff.en.json"
@@ -1164,6 +1482,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/124/download"
+      to = "/versions/124.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/kodi-xbmc"
@@ -1187,6 +1511,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/42/download"
+      to = "/versions/42.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/lirc"
       to = "/modules/lirc.en.json"
@@ -1208,6 +1538,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/158/download"
+      to = "/versions/158.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/speak"
@@ -1231,6 +1567,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/65/download"
+      to = "/versions/65.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/google-home"
       to = "/modules/google-home.en.json"
@@ -1252,6 +1594,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/173/download"
+      to = "/versions/173.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/shutdown"
@@ -1275,6 +1623,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/110/download"
+      to = "/versions/110.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/colissimo"
       to = "/modules/colissimo.en.json"
@@ -1296,6 +1650,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/134/download"
+      to = "/versions/134.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/hue"
@@ -1319,6 +1679,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/61/download"
+      to = "/versions/61.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/alexa"
       to = "/modules/alexa.en.json"
@@ -1340,6 +1706,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/169/download"
+      to = "/versions/169.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/serial"
@@ -1363,6 +1735,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/72/download"
+      to = "/versions/72.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/milight"
       to = "/modules/milight.en.json"
@@ -1384,6 +1762,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/107/download"
+      to = "/versions/107.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/hyperion"
@@ -1407,6 +1791,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/122/download"
+      to = "/versions/122.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/yeelight"
       to = "/modules/yeelight.en.json"
@@ -1428,6 +1818,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/152/download"
+      to = "/versions/152.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/programmetv"
@@ -1451,6 +1847,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/50/download"
+      to = "/versions/50.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/broadlink"
       to = "/modules/broadlink.en.json"
@@ -1472,6 +1874,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/161/download"
+      to = "/versions/161.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/mysensors"
@@ -1495,6 +1903,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/68/download"
+      to = "/versions/68.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/lgwebos"
       to = "/modules/lgwebos.en.json"
@@ -1516,6 +1930,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/112/download"
+      to = "/versions/112.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/chromecast"
@@ -1539,6 +1959,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/136/download"
+      to = "/versions/136.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/suncalc"
       to = "/modules/suncalc.en.json"
@@ -1560,6 +1986,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/154/download"
+      to = "/versions/154.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/smsfree"
@@ -1583,6 +2015,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/64/download"
+      to = "/versions/64.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/blockstack"
       to = "/modules/blockstack.en.json"
@@ -1604,6 +2042,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/171/download"
+      to = "/versions/171.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/forecast"
@@ -1627,6 +2071,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/74/download"
+      to = "/versions/74.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/spotify-connect"
       to = "/modules/spotify-connect.en.json"
@@ -1648,6 +2098,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/109/download"
+      to = "/versions/109.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/bose-soundtouch"
@@ -1671,6 +2127,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/125/download"
+      to = "/versions/125.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/pushbullet"
       to = "/modules/pushbullet.en.json"
@@ -1692,6 +2154,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/59/download"
+      to = "/versions/59.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/freebox"
@@ -1715,6 +2183,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/164/download"
+      to = "/versions/164.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/sonos"
       to = "/modules/sonos.en.json"
@@ -1736,6 +2210,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/71/download"
+      to = "/versions/71.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/mp3-player"
@@ -1759,6 +2239,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/87/download"
+      to = "/versions/87.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/teleinfo"
       to = "/modules/teleinfo.en.json"
@@ -1780,6 +2266,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/117/download"
+      to = "/versions/117.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/shell"
@@ -1803,6 +2295,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/151/download"
+      to = "/versions/151.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/viera"
       to = "/modules/viera.en.json"
@@ -1824,6 +2322,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/159/download"
+      to = "/versions/159.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/zwave"
@@ -1847,6 +2351,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/66/download"
+      to = "/versions/66.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/telegram"
       to = "/modules/telegram.en.json"
@@ -1868,6 +2378,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/80/download"
+      to = "/versions/80.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/enocean"
@@ -1891,6 +2407,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/111/download"
+      to = "/versions/111.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/netatmo"
       to = "/modules/netatmo.en.json"
@@ -1912,6 +2434,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/135/download"
+      to = "/versions/135.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/wemo"
@@ -1935,6 +2463,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/63/download"
+      to = "/versions/63.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/rpi-info"
       to = "/modules/rpi-info.en.json"
@@ -1956,6 +2490,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/170/download"
+      to = "/versions/170.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/google"
@@ -1979,6 +2519,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/73/download"
+      to = "/versions/73.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/w215"
       to = "/modules/w215.en.json"
@@ -2000,6 +2546,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/108/download"
+      to = "/versions/108.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/onkyo"
@@ -2023,6 +2575,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/153/download"
+      to = "/versions/153.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/mqtt"
       to = "/modules/mqtt.en.json"
@@ -2044,6 +2602,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/58/download"
+      to = "/versions/58.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/livebox"
@@ -2067,6 +2631,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/163/download"
+      to = "/versions/163.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/fhem"
       to = "/modules/fhem.en.json"
@@ -2088,6 +2658,12 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/70/download"
+      to = "/versions/70.json"
+      status = 200
+      force = true
   
     [[redirects]]
       from = "/api/v1/modules/network-scanner"
@@ -2111,6 +2687,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/86/download"
+      to = "/versions/86.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/hdmicec"
       to = "/modules/hdmicec.en.json"
@@ -2133,6 +2715,12 @@
       force = true
 
   
+     [[redirects]]
+      from = "/api/v1/modules/116/download"
+      to = "/versions/116.json"
+      status = 200
+      force = true
+  
     [[redirects]]
       from = "/api/v1/modules/freebox-networkscanner"
       to = "/modules/freebox-networkscanner.en.json"
@@ -2154,4 +2742,10 @@
       status = 200
       force = true
 
+  
+     [[redirects]]
+      from = "/api/v1/modules/147/download"
+      to = "/versions/147.json"
+      status = 200
+      force = true
   

@@ -34,10 +34,24 @@ function getRedirects(idModule, slug, lang) {
 
   `;
 
-  return infos + reviews + versions;
+  const saveDownload = `
+     [[redirects]]
+      from = "/api/v1/modules/${idModule}/download"
+      to = "/versions/${idModule}.json"
+      status = 200
+      force = true
+  `;
+
+  return infos + reviews + versions + saveDownload;
 }
 
-let allRedirects = "";
+let allRedirects = `
+   [[redirects]]
+      from = "/api/gladys/version"
+      to = "/last_version.json"
+      status = 200
+      force = true
+`;
 
 modulesFr.forEach((module) => {
   allRedirects += getRedirects(module.idModule, module.slug, "fr");
