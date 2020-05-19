@@ -51,6 +51,20 @@ let allRedirects = `
       to = "/last_version.json"
       status = 200
       force = true
+
+    [[redirects]]
+      from = "/api/v1/modules"
+      to = "/modules.fr.json"
+      query = {lang = "fr"}
+      status = 200
+      force = true
+  
+    [[redirects]]
+      from = "/api/v1/modules"
+      to = "/modules.en.json"
+      status = 200
+      force = true
+
 `;
 
 modulesFr.forEach((module) => {
