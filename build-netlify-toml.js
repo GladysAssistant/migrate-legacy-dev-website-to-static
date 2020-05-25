@@ -46,6 +46,11 @@ function getRedirects(idModule, slug, lang) {
 }
 
 let allRedirects = `
+   [[headers]]
+     # Define which paths this specific [[headers]] block will cover.
+     for = "/*"
+      [headers.values]
+      Access-Control-Allow-Origin = "*"
    [[redirects]]
       from = "/api/gladys/version"
       to = "/last_version.json"
